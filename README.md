@@ -1,4 +1,5 @@
-# OneCampusProj-ChicagoCrimeData_EDA
+# OneCampus Academy Capstone Project
+
 ## My First Python Data Analytics Project
 
 ### Project Brief
@@ -16,4 +17,9 @@ What days of the week and periods to expect these crimes
 ### Task
 
 Conduct a complete data analytics study and from your analytics, advise the Chicago PD accordingly
+
+find below certifcate obtained from One Campus Academy
+
+[1684441234KM.pdf](https://github.com/kabiromohd/OneCampus_Capstone_Project/files/13582095/1684441234KM.pdf)
+
 
